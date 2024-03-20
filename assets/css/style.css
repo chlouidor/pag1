@@ -1,0 +1,35 @@
+body{min-height: 100%;
+    background-image: url(../img/IMG_20231227_210908.jpg) ;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+*{margin: 0;
+padding: 0;
+}
+
+header h1 {
+    color: rgb(224, 25, 207);
+    text-transform: uppercase;
+    text-size-adjust: auto;
+    text-align: center;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+nav ul{color: rgb(0, 0, 0);
+    font-weight: bold;
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+    margin: 20px;
+}
+div main article table {color: aliceblue;
+    margin: 30px auto;
+}
+.img {
+    display: flex;
+    justify-content: center;
+    margin: 14px auto;
+}
