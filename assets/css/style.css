@@ -28,7 +28,16 @@ nav ul{color: rgb(0, 0, 0);
     display: flex;
     list-style: none;
     justify-content: space-evenly;
-    margin: 10px;
+    background-color: aliceblue;
+    max-width: 65%;
+    padding:  auto;
+    padding-top: 0.2%;
+    padding-bottom: 0.5%;
+    margin: 60px;
+    margin: 0 auto;
+    margin-top: 1%;
+    align-items: center;
+    border-radius: 9%;
 }
 div main article table {color: aliceblue;
     margin: 30px auto;
@@ -37,4 +46,9 @@ div main article table {color: aliceblue;
     display: flex;
     justify-content: center;
     margin: 14px auto;
+}
+hr { 
+    display: block;
+    width: auto;
+
 }
